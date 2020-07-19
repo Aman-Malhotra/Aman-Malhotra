@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Check out the apps that I have worked on
 
 | APPS | I HAVE | WORKED | ON |
